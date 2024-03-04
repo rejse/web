@@ -1,7 +1,9 @@
 var images=
 [
-  "https://mlmk.gitee.io/picture-api/ciyuanfengjing/001.jpg",
-  "https://mlmk.gitee.io/picture-api/ciyuanfengjing/002.jpg",
-  "https://mlmk.gitee.io/picture-api/ciyuanfengjing/003.jpg",
-  "https://rejse.github.io/web/tp/ddsd.gif"
+  "https://rejse.github.io/web/tp/ddsd.gif",
+  "https://rejse.github.io/web/tp/0.png",
+  "https://rejse.github.io/web/tp/1.png",
+  "https://rejse.github.io/web/tp/2.png",
+  "https://rejse.github.io/web/tp/3.png",
+  "https://rejse.github.io/web/tp/4.png"
 ]
